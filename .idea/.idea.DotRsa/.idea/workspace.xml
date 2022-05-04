@@ -4,16 +4,38 @@
     <projectFile>DotRsa/DotRsa.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83e3cd91-17f5-4647-b8ab-765b0f69e23c" name="Changes" comment="" />
+    <list default="true" id="83e3cd91-17f5-4647-b8ab-765b0f69e23c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DotRsa/Rsa.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DotRsa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DotRsa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DotRsa/DotRsa.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DotRsa/DotRsa.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DotRsa/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DotRsa/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DotRsa/obj/Debug/DotRsa.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DotRsa/obj/Debug/DotRsa.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0cb43aaed125408a8ac6a6d32441b56e20b48/0c/12f6c56b/BigInteger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d159fa92d916429c8794793f579a115e17a760/1a/3d2c16d8/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DotRsa/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/539a6d53d4df4e9a911c50e1eee88527564d90/e9/16360b2b/Convert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/539a6d53d4df4e9a911c50e1eee88527564d90/87/beffab4b/String.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="287SFU4G7dxbfmKn9Q5dYIRiG0I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +44,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -52,16 +76,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650566029271</updated>
-      <workItem from="1650566033332" duration="1090000" />
+      <workItem from="1650566033332" duration="8021000" />
+      <workItem from="1650633022011" duration="2222000" />
+      <workItem from="1650925186293" duration="5495000" />
+      <workItem from="1650932316955" duration="603000" />
+      <workItem from="1650945400910" duration="2967000" />
+      <workItem from="1650979928595" duration="1135000" />
+      <workItem from="1651121306142" duration="5242000" />
+      <workItem from="1651186791683" duration="2160000" />
+      <workItem from="1651262087490" duration="599000" />
+      <workItem from="1651619357450" duration="1296000" />
+      <workItem from="1651628877467" duration="2354000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: initialize project">
+      <created>1650568037090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650568037090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="chore: initialize project" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: initialize project" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="n" language="C#" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
